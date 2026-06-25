@@ -1,0 +1,13 @@
+WEEK 2 PROGRESS LOG: DATA ALIGNMENT & CLASSICAL PREDICTION
+==========================================================
+Dived into tabular parsing setups, feature scrubbing, and baseline ensemble theory.
+
+1. DATA MANIPULATION WITH PANDAS
+   - Dimension Formats: Looked into the differences between flat 1D Series structures and multi-dimensional DataFrames that display information in tables.
+   - Anomaly Management: Used targeted commands to drop bad rows entirely and substitute empty fields with baseline defaults.
+   - Direct Modifications: Noted that omitting inplace arguments keeps structural updates safer by preventing unintended mutations on core records.
+
+2. MACHINE LEARNING ENGINE DESIGN
+   - Target Classes: Examined how baseline datasets partition item characteristics to isolate unique target predictions.
+   - Profile Metrics: Ran broad summary summaries to compute standard variations and midpoint thresholds across features.
+   - Voting Ensembles: Explored how training parallel base predictors over random data partitions stabilizes final predictions and cuts down overfitting issues.
