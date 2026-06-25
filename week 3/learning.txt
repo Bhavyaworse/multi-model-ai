@@ -1,0 +1,12 @@
+WEEK 3 PROGRESS LOG: MULTI-LAYER NETWORKS & VISION KERNELS
+===========================================================
+Graduated from static flat calculations to deep learning models and matrix arrays.
+
+1. NEURAL ROUTING
+   - Feature Sizing: Studied how dimensional arrays transform mathematically as inputs cross connected network layer junctions.
+   - Optimizing Weights: Realized that model updates are guided by calculated slope steps that iteratively adjust parameters to minimize error gaps.
+
+2. IMAGE EXTRACTION CHANNELS
+   - Filter Passes: Analyzed how sliding matrix kernels capture localized changes like micro-fractures, edges, and surface boundaries.
+   - Dimension Shrinking: Practiced using maximum region selection filters to drop irrelevant parameters while highlighting intense texture responses.
+   - Linear Unrolling: Flattened multi-dimensional matrices down into single feature paths to process final classification choices.
