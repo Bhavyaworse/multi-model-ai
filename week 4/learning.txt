@@ -1,0 +1,16 @@
+WEEK 4 PROGRESS LOG: MODEL ALIGNMENTS & CONVERSATIONAL INTERFACES
+==================================================================
+Concluded the baseline timeline by learning about text generation workflows and interactive agents.
+
+1. TRAINING STAGES
+   - Deep Pre-Training: Studied how huge next-token modeling scripts ingest enormous amounts of web documentation to map basic speech distributions.
+   - Behavior Alignment: Learned how giving plain target directions lets developers steer core models to serve as specialized system operators.
+   - Scale Trends: Traced how general logic limits improve systematically based on layer depths, hardware power, and token availability.
+
+2. EMBEDDINGS & RETRIEVAL WORKFLOWS
+   - Text Vectors: Explored mapping text chunks into coordinates to measure closeness values using simple angles.
+   - Memory Buffers: Set up lookup index tables to supply background details on demand, expanding what the system knows without hitting maximum tokens.
+
+3. SYSTEM CONNECTORS
+   - Framework Construction: Mixed conversational layouts with modular blocks to process multi-stage chat tasks.
+   - Tool Call Iterations: Programmed decision pathways that check streaming inputs and pass calculation subtasks to external shells.
